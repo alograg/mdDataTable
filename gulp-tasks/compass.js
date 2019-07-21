@@ -1,11 +1,11 @@
-var gulp    = require('gulp'),
-    utils   = require('./gulp-utils.js'),
-    watch   = require('gulp-watch'),
-    compass = require('gulp-compass'),
+var gulp        = require('gulp'),
+    utils       = require('./gulp-utils.js'),
+    watch       = require('gulp-watch'),
+    sass        = require('gulp-sass'),
     runSequence = require('run-sequence');
 
 gulp.task('run compass for main scss', function() {
-    var runCompass = compass({ css: 'build', sass: 'app/scss', image: 'app/img' });
+  var runCompass = sass({css: 'build', sass: 'app/scss', image: 'app/img'});
 
     return gulp
         .src('app/scss/main.scss')
