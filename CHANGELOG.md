@@ -1,8 +1,12 @@
 # CHANGELOG
 
-[Version: v2.2.3]
+[Version: v2.2.4]
 
 ## Unreleased
+
+
+## v2.2.3 (2019-07-21)
+
 
 
 ## v2.2.2 (2019-07-21)
