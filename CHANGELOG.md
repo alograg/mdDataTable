@@ -1,8 +1,13 @@
 # CHANGELOG
 
-[Version: v2.2.4]
+[Version: v2.2.5]
 
 ## Unreleased
+
+*  build(update): Update a current versions [View](./commits/f5305ee9894e433ac20a34a2700f469626895647)
+
+## v2.2.4 (2019-07-21)
+
 
 
 ## v2.2.3 (2019-07-21)
