@@ -1,6 +1,6 @@
 # CONTRIBUTORS
 
-[Version: v2.2.2]
+[Version: v2.2.3]
 
 - Adam Trojanowski <anlGT@users.noreply.github.com>
 - alograg <alograg@gmail.com>
